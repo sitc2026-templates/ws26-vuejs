@@ -4,5 +4,5 @@
 docker compose up --build
 ```
 
-Open **http://localhost:5173** — a minimal Vue app with a counter.
+Open **http://localhost** — a minimal Vue app with a counter.
 Pinned: Node 24.1.0 / npm 11.5.0, Vue 3.5.28.
